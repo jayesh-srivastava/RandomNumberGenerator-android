@@ -4,7 +4,7 @@ This is my first android application. A very simple application that will allow 
 Just Keep clicking the Count Button till you reach to your desired number and then click Random to generate a number.
 Also as this is my first android application, I've also added a button which will simply display a Toast Message. This toast message is just for my understanding of how to add a toast message in your application.
 
-* [MainActivity.java](https://github.com/jayesh-srivastava/RandomNumberGeneratorApp-android/blob/master/app/src/main/java/com/example/myfirstappcodelabs/MainActivity.java)
+* [MainActivity.java](https://github.com/jayesh-srivastava/RandomNumberGeneratorApp-android/blob/master/app/src/main/java/com/example/myfirstappcodelabs/MainActivity.java)\
 Execute this file to run the app on an Android Virtual Device or a Realworld Android Device.
 
 Feel free to give me ideas about new types of applications which will help me understand Android Development in a better and deeper way.
