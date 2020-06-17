@@ -9,4 +9,6 @@
     <color name="screenbackground2">#0000FF</color>
     <color name="screenbackground3">#2196F3</color>
     <color name="buttoncolor2">#ADDFFF</color>
+    <color name="finalbackground">#212121</color>
+    <color name="finalbutton">#d50000</color>
 </resources>

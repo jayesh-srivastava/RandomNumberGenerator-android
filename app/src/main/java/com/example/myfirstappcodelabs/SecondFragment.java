@@ -29,9 +29,9 @@ public class SecondFragment extends Fragment {
         TextView headerView = view.getRootView().findViewById(R.id.textView_header);
         headerView.setText(countText);
         Random random = new java.util.Random();
-        Integer randomNumber = 0;
-        if (count > 0) {
-            randomNumber = random.nextInt(count + 1);
+        Integer randomNumber = 1;
+        if (count >= 1) {
+            randomNumber = random.nextInt(count)+1;
         }
         TextView randomView = view.getRootView().findViewById(R.id.textView_random);
         randomView.setText(randomNumber.toString());
